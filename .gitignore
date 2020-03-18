@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+# Editor backup files
+*~
+
 # Object files
 *.o
 *.ko
